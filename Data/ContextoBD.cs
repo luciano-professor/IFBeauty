@@ -23,4 +23,7 @@ public class ContextoBD : DbContext
 
   public DbSet<Perfil> Perfis { get; set; }
 
+
+  //Atualizei
+
 }
